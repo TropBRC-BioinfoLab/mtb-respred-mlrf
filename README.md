@@ -1,5 +1,5 @@
 # tuberculosis-resistance-classification
- This project's for my Thesis on Bachelor and Master Computer Science mayor degree, and this project is a python based pipeline for classifying Mycobacterium Tuberculosis first-line drugs resistance from DNA genome sequence powered by ML model
+ This project is a python based pipeline for classifying and predicting Mycobacterium Tuberculosis first-line drugs resistance from DNA genome sequence powered by ML model using Multi Label Random Forest.
 
 # Tools
 Tools/library used in the pipeline :
@@ -16,10 +16,5 @@ Tools/library used in the pipeline :
 <img src="/img/flowchart_skripsi.png" width="480" title="pipeline flowchart">
 </p>
 
-# What to do next 
-- Check threading process (it seems still have error)
-- Implementing into other multilabel cases
-- This MLRF could be integrated with other modified RF/DT algorithm, or pipelined into other Classifier process
-
-# Progress Report and Step by Step
+# Report and Step by Step
 Gdocs : https://docs.google.com/document/d/1HKc87iLV8qUzujZ_jzEfRqFR9IoTSv-x7UFBGVyLq54/edit?usp=sharing
